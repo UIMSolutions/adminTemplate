@@ -1,1 +1,1 @@
-# Package 📦 admin.myname
+# Package 📦 admins.myname
